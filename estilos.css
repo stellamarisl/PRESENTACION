@@ -1,0 +1,24 @@
+html,body{
+  margin: 0;
+  height: auto;
+}
+h1{
+font-size: 120px;
+font-family: "Monserrat";
+font-weight: 800px;
+}
+
+p{
+font-family:  "Poppins";
+font-size: 48px;
+font-weight: 600px;
+}
+
+h1,
+span{
+color:#BE3969 
+}
+
+
+
+
